@@ -11,9 +11,9 @@ title                    : "Tareq Abu El Komboz"
 title_separator          : "-"
 name                     : &name "Tareq Abu El Komboz"
 description              : &description "Hello World! This is my first Blog created in the scope of the Hauptseminar Deep Learning for the Sciences"
-url                      : https://TareqKomboz/forkedHauptseminar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tareqkomboz.github.io/forkedHauptseminar/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TareqKomboz/forkedHauptseminar.github.io"
+repository               : "tareqkomboz.github.io/forkedHauptseminar/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
