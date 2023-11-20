@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tareq Abu El Komboz"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Tareq Abu El Komboz"
-description              : &description "Hello World! This is my first Blog created in the scope of the Hauptseminar Deep Learning for the Sciences"
-url                      : https://tareqkomboz.github.io/forkedHauptseminar/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tareqkomboz.github.io/forkedHauptseminar/"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,6 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -74,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tareq Abu El Komboz"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "I am M.Sc. Computer Science Student at the University of Stuttgart. I am especially interested in Deep Learning, Reinforcement Learning and Foundation Models"
-  location         : "Stuttgart, Germany"
-  employer         : "University of Stuttgart"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kXQCnj8AAAAJ&hl=de&oi=ao"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -90,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tareqkomboz"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "www.linkedin.com/in/tareqkomboz"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
