@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Parameter-dependent self-learning optimization"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/PDSLO_BachelorArbeit_Ausarbeitung
+excerpt: 'This paper was created in the context of my bachelor thesis. The goal was to develop a self-learning optimization algorithm that can adapt to the problem at hand. The algorithm was tested on a set of benchmark functions and compared to other optimization algorithms. The results show that the algorithm is able to adapt to the problem at hand and outperforms other algorithms in some cases.'
+date: 2022-10-01
+paperurl: 'http://tareqkomboz.github.io/foredHauptseminar/files/PDSLO_BachelorArbeit_Ausarbeitung.pdf'
+citation: 'Abu El Komboz, Tareq. &quot; Parameter-dependent self-learning optimization &quot; . BS thesis. 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper was created in the context of my bachelor thesis. The goal was to develop a self-learning optimization algorithm that can adapt to the problem at hand. The algorithm was tested on a set of benchmark functions and compared to other optimization algorithms. The results show that the algorithm is able to adapt to the problem at hand and outperforms other algorithms in some cases.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://tareqkomboz.github.io/foredHauptseminar/files/PDSLO_BachelorArbeit_Ausarbeitung.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Abu El Komboz, Tareq. Parameter-dependent self-learning optimization. BS thesis. 2022.
