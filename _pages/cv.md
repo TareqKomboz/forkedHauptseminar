@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Stuttgart, 10.2018 - 09.2022
+* M.S. in Computer Science, University of Stuttgart, 10.2022 - 09.2025
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04.2020 - 09.2020: Research Assistant
+  * University of Stuttgart
+  * Institute for Visualization and Interactive Systems, Course: Data Structures and Algorithms
+  * Duties included:
+    * Testing and revising program code
+    * Supervision of 60 students
+    * Planning and execution of two weekly exercise groups
+    * Discussion and consolidation of the current lecture content
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 10.2019 - 03.2020: Research Assistant
+  * University of Stuttgart
+  * Institute for Formal Methods in Computer Science, Course: Theoretical Computer Science
+  * Duties included:
+    * Correction and discussion of exercise sheets
+    * Supervision of 60 students
+    * Planning and implementation of two weekly exercise groups
+    * Discussion and consolidation of the current lecture content
   
 Skills
 ======
@@ -39,18 +47,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
