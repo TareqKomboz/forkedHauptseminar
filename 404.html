@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        // Destination domain
+        var newHost = "https://tareqkomboz.github.io";
+        
+        // Get current path (e.g., /forkedHauptseminar/posts/...)
+        var currentPath = window.location.pathname;
+        
+        // Remove the repo name '/forkedHauptseminar' from the start of the path
+        var newPath = currentPath.replace(/^\/forkedHauptseminar/, "");
+        
+        // Construct the new URL (keeping query params and hash)
+        var newUrl = newHost + newPath + window.location.search + window.location.hash;
+        
+        // Perform the redirect
+        window.location.replace(newUrl);
+    </script>
+    <!-- Fallback meta refresh to home page if script fails -->
+    <meta http-equiv="refresh" content="0;url=https://tareqkomboz.github.io/">
+</head>
+<body>
+    <p>This site has moved. <a href="https://tareqkomboz.github.io/">Click here to go to the new location</a>.</p>
+</body>
+</html>
